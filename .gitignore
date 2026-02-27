@@ -33,3 +33,8 @@ bin/
 wa-profile/
 wa-profile*/
 *.log
+wa-profile/
+wa-profile*/
+*.log
+shared_proto_db/
+ipCache/
