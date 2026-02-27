@@ -28,3 +28,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# WhatsApp / Chrome profile (contains caches + possible secrets)
+wa-profile/
+wa-profile*/
+*.log
